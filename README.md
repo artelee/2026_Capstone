@@ -14,6 +14,9 @@
 | ex4_color_split.py | BGR 색 성분 분리 출력 |
 | ex5_hsv_split.py | HSV 색 공간 변환 및 채널 분리 |
 | ex6_red_candy.py | 빨간색 캔디 추출 (HSV) |
+| ex7_histogram.py | Grayscale 히스토그램 출력 |
+| ex8_bgr_histogram.py | BGR 히스토그램 출력 |
+| ex9_edge_detection.py | filter2D를 활용한 엣지 추출 |
 
 ### 실습과제 (lab)
 
